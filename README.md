@@ -1,2 +1,1 @@
-# search-engine-frontend-prototype
-i have created a simple frontend prototype for search engine using HTML and CSS
+This is my first frontend project.i have just created a front end prototype for a search engine using HTML and CSS
